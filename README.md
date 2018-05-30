@@ -1,2 +1,2 @@
-# LearningGit
-This project is for git learning
+# Cucumber BDD Framework
+This is a BDD framework created with the help of Cucucmber, Selenium, Java
